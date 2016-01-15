@@ -1,5 +1,5 @@
 # CV - Chris Merry
-I've been developing javascript driven mobile web apps, SCORM eLearning modules, iOS, Android, and Windows Phone apps, dynamic bespoke eLearning sites, and a variety of other web material for blue chip clients including Marks and Spencer, UCL, and Bureau Veritas, for more than 10 years. 
+I've been developing javascript driven mobile web apps, SCORM eLearning modules, iOS, Android, and Windows Phone apps, dynamic bespoke eLearning sites, and a variety of other web material for blue chip clients including Marks and Spencer, UCL, and Bureau Veritas, for more than 10 years. As my background before coding was in tv many projects have included a lot of video content, which I can also create.
 
 <img src='http://upland.myzen.co.uk/images/cv/BVSmart_LogoCM_358sq.png' width="144px" title="BV live updates app">
 <img src='http://upland.myzen.co.uk/images/cv/innovation_144_icon.png' width="144px" title="M&S Innovation logging app">
@@ -9,12 +9,10 @@ I've been developing javascript driven mobile web apps, SCORM eLearning modules,
 ###SKILLS
 
 | Languages | Frameworks/Libraries |     Tools/Others | Databases |
-|:---------:|:--------------------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Illustrator  | MySQL|
-| PHP       | React.js             |             |   |
-| HTML5     | Angular.js           |      | |
-| CSS3      | jQuery               |   |
-| SQL       | Bootstrap            | |
-|           | Sass                 |  |
-|           | Leaflet.js           |        Photoshop   | |
-|           | D3.js                |  
+|:---------:|:--------------------:|:------------:    |:---------:|
+| Javascript| jQuery               | Illustrator      | MySQL    |
+| PHP       |                      |   Photoshop      |          |
+| HTML5     |                      |Premier, Avid, FCP|          |
+| CSS3      |                      |   After Effects  |          |
+| SQL       |                      |       Motion     |          |
+
