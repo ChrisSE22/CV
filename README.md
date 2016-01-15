@@ -6,3 +6,4 @@ I've been developing javascript driven mobile web apps, SCORM eLearning modules,
 <img src='http://upland.myzen.co.uk/images/cv/CS_icon_144.png' width="144px" title="Child Safety manual web appified">
 <img src='http://upland.myzen.co.uk/images/cv/ECP_144_icon.png' width="144px" title="Essential chemical regulations">
 
+###SKILLS
