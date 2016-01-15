@@ -11,7 +11,7 @@ I've been developing javascript driven mobile web apps, SCORM eLearning modules,
 | Languages | Frameworks/Libraries |     Tools/Others | Databases |
 |:---------:|:--------------------:|:------------:    |:---------:|
 | Javascript| jQuery               | Illustrator      | MySQL    |
-| PHP       |                      |   Photoshop      |          |
+| PHP       |  Cordova             |   Photoshop      |          |
 | HTML5     |                      |Premier, Avid, FCP|          |
 | CSS3      |                      |   After Effects  |          |
 | SQL       |                      |       Motion     |          |
