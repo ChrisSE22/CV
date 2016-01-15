@@ -3,4 +3,4 @@ I've been developing javascript driven mobile web apps, SCORM eLearning modules,
 
 One big contract for M&S recently has been converting technical manuals into mobile web apps, easily portable and navigable, and very green.
 
-[[http://upland.myzen.co.uk/images/cv/BVSmart LogoCM_358sq.png]]
+
