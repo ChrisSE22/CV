@@ -7,3 +7,14 @@ I've been developing javascript driven mobile web apps, SCORM eLearning modules,
 <img src='http://upland.myzen.co.uk/images/cv/ECP_144_icon.png' width="144px" title="Essential chemical regulations">
 
 ###SKILLS
+
+| Languages | Frameworks/Libraries |     Tools/Others | Databases |
+|:---------:|:--------------------:|:------------:|:---------:|
+| Javascript| Hapi.js              | Illustrator  | MySQL|
+| PHP       | React.js             |             |   |
+| HTML5     | Angular.js           |      | |
+| CSS3      | jQuery               |   |
+| SQL       | Bootstrap            | |
+|           | Sass                 |  |
+|           | Leaflet.js           |        Photoshop   | |
+|           | D3.js                |  
